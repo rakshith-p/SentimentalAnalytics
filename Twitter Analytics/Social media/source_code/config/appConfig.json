@@ -1,0 +1,66 @@
+{
+    "connectionPool": [
+        {
+            "consumerKey": "",
+            "consumerKeySecret": "",
+            "accessToken": "",
+            "accessTokenSecret": ""
+        },
+        {
+            "consumerKey": "",
+            "consumerKeySecret": "",
+            "accessToken": "",
+            "accessTokenSecret": ""
+        },
+        {
+            "consumerKey": "",
+            "consumerKeySecret": "",
+            "accessToken": "",
+            "accessTokenSecret": ""
+        },
+        {
+            "consumerKey": "",
+            "consumerKeySecret": "",
+            "accessToken": "",
+            "accessTokenSecret": ""
+        }
+
+
+    ],
+    "batchFileList": ["config/NewsChannels.json", "config/Clients.json", "config/NewClients.json"],
+    "customCommand": "vsql -d Vmart -f /home/dbadmin/DataMiner/sql/sentiment_calculation.sql -o /home/dbadmin/DataMiner/sql/sentiment_calculation.out -h 16.181.234.177 -p 5433 -U dbadmin -w dbadmin$$",
+    "customCommandIntervalMin": "30",
+    "allowParallelDBLoading": "false",
+    "shutdownTimeMinute": "30000",
+    "outputDirectory": "out/",
+    "directorySeparator": "/",
+    "fieldSeparator": "~",
+    "lineSeparator": "\n",
+    "writerBufferKB": "16",
+    "dbsyncIntervalMin": "8",
+    "dbHost": "//16.181.234.177",
+    "dbPort": "5433",
+    "dbName": "VMart",
+    "twitterStatusTable": "TWITTER_STATUS",
+    "twitterUserTable": "TWITTER_USER",
+    "dbUsername": "dbadmin",
+    "dbPassword": "dbadmin$$",
+    "proxyHost": "web-proxy.cup.hp.com",
+    "proxyPort": "8080",
+    "proxyUser": "",
+    "proxyPassword": "",
+    "emailConfiguration":{
+        "smtpHost":"smtp.gmail.com",
+        "smtpPort":"587",
+        "smtpUsername":"",
+        "smtpPassword":"",
+        "smtpNativeUserName":"",
+        "patternNotification":
+            {
+                "subject":"Visualization_of_Identified_Patterns",
+                "recipients":[""],
+                "body":"Dear All,\nPlease open the attached HTML file in your web browser to Visualize patterns identified from available data sets.\n\n\n--This is System generated email.\nPlease do not reply!"
+            }
+        
+    }
+}

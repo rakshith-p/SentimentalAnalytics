@@ -1,0 +1,11 @@
+{
+  "batchRunStartTime" : "",
+  "batchCutOffMaxDate" : "",
+  "batchName" : "NewClients",
+  "batchCutOffMinDate" : "",
+  "batchTrackStream" : "false",
+  "userNames" : "FnN_Beverages,CocaCola,pepsi,my100plus",
+  "dateFormat" : "dd/MM/yyyy-HH:mm:ss",
+  "batchRefLevel" : "3",
+  "DoNotModiyThis" : "HP,FlyFrontier,AmericanAir,VirginAmerica,SingaporeAir,united,Telstra,Telstra_news,Disney,SKFgroup,CVSCaremarkFYI,SeadrillLtd,AholdNews,Shell,Timken,IRProducts,British_Airways,IBM,Cognizant,HPIndia,hpnews,HPDiscover,ATT,Shell_US,VodafoneUK,VodafoneUKhelp,SKYNZ,sbm_bank,BoM_Mauritius,BofA_News,BofA_Help,bankofengland,bankofcanada,Barodabank,TheOfficialSBI,BOI_Tweets,ICICIBank,ICICIBank_Care,HDFC_Bank,Citi,AskCiti,MyMaybank"
+}

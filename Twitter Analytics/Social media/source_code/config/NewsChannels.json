@@ -1,0 +1,11 @@
+{
+  "batchRunStartTime" : "",
+  "batchCutOffMaxDate" : "",
+  "batchName" : "NewsChannels",
+  "batchCutOffMinDate" : "23/09/2014-14:59:58",
+  "batchTrackStream" : "false",
+  "userNames" : "CNN,cnnbrk,BBCBreaking,BBCWorld,timesnow,nytimes,ndtv,washingtonpost,FoxNews,foxheadlines,theSundaily,malaysiandigest",
+  "dateFormat" : "dd/MM/yyyy-HH:mm:ss",
+  "batchRefLevel" : "3",
+  "DoNotModiyThis" : "CNN,cnnbrk,BBCBreaking,BBCWorld,timesnow,nytimes,ndtv,washingtonpost,FoxNews,foxheadlines,theSundaily,malaysiandigest"
+}

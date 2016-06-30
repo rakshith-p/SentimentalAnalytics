@@ -1,0 +1,21 @@
+latlng=40.714224,-73.961452&key=API_KEY
+
+
+
+GoogleAPI
+https://code.google.com/apis/console/b/0/?noredirect&pli=1#project:832790124425:services
+for the Console	
+Download the ulil API From http://www.java2s.com/Code/Jar/o/Downloadorgapachecommonsiojar.htm
+
+GoogleAPI
+Start the GeoCoder services
+Get The API_KEY
+
+API_KEY : AIzaSyDw36XeV3KW16SS3RWzt0nz6j5wPw7IkzU
+reverse GeoCoder API Request URL
+https://maps.googleapis.com/maps/api/geocode/json?latlng=51.5072759,-0.1276597&key=AIzaSyDw36XeV3KW16SS3RWzt0nz6j5wPw7IkzU
+
+
+
+Account TO Login p.rakshith2007@gmail.com
+51.5072759,-0.1276597
